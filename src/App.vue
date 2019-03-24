@@ -16,7 +16,13 @@ export default {
 };
 </script>
 
-<style>
+<style lang="stylus">
+  div
+    img
+      border solid black 1px
+</style>
+
+<style lang="scss">
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
